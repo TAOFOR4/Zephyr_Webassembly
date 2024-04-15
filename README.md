@@ -1,8 +1,8 @@
-# nRF5340_Webassembly
-This is a experiment for running wasm (webassembly) on nRF5340.
+# Zephyr_Webassembly
+This is a experiment for running wasm (webassembly) on nRF5340/Raspberry Pi Pico.
 
 ## Device and Platform
-Devices: nRF52840 , nRF5340
+Devices: nRF52840 , nRF5340, Raspberry Pi Pico
 Platform: Ubuntu22 , zephyr
 
 
